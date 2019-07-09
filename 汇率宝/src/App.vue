@@ -1,7 +1,7 @@
 <template>
   <div id="app">
     <p>
-    <img src="C:\fengyong\title.png" alt="汇率宝" height="100" width="200"/>
+    <img src="C:\Users\黄威\Documents\GitHub\fengyong\title.png" alt="汇率宝" height="100" width="200"/>
     </p>
     <input type="text" value="1">
     <select name="货币选择1" id="money1">
